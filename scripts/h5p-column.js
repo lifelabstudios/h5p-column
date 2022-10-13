@@ -554,7 +554,8 @@ H5P.Column = (function (EventDispatcher) {
     'H5P.InteractiveVideo',
     'H5P.CoursePresentation',
     'H5P.DocumentationTool',
-    'H5P.Likert'
+    'H5P.Likert',
+    'H5P.ShortAnswer'
   ];
 
   /**
