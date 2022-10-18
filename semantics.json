@@ -50,7 +50,8 @@
             "H5P.TrueFalse 1.6",
             "H5P.TwitterUserFeed 1.0",
             "H5P.Video 1.5",
-            "H5P.Likert 1.0"
+            "H5P.Likert 1.0",
+            "H5P.ShortAnswerList 1.0"
           ]
         },
         {
