@@ -555,7 +555,7 @@ H5P.Column = (function (EventDispatcher) {
     'H5P.CoursePresentation',
     'H5P.DocumentationTool',
     'H5P.Likert',
-    'H5P.ShortAnswer'
+    'H5P.ShortAnswerList'
   ];
 
   /**
@@ -602,7 +602,8 @@ H5P.Column = (function (EventDispatcher) {
     'H5P.MemoryGame',
     'H5P.Dialogcards',
     'H5P.QuestionSet',
-    'H5P.DocumentationTool'
+    'H5P.DocumentationTool',
+    'H5P.ShortAnswerList'
   ];
 
   /**
